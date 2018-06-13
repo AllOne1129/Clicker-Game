@@ -1,0 +1,2 @@
+C:\Users\DSM2018\Documents\Clicker Game2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\DSM2018\Documents\Clicker Game2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
